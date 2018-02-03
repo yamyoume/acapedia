@@ -209,7 +209,7 @@ gulp.task('watch', function() {
   // gulp.watch(admin_jsSources, ['admin_js']);
   gulp.watch(cssSources, ['css']);
   // gulp.watch(admin_cssSources, ['admin_css']);
-  gulp.watch('components/sass/*.scss', ['sass']);
+  gulp.watch('components/sass/**/*.scss', ['sass']);
   // gulp.watch('components/admin_sass/*.scss', ['admin_sass']);
   gulp.watch('builds/development/*.html', ['html']);
   gulp.watch('builds/development/js/*.json', ['json']);

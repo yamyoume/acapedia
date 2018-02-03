@@ -1399,9 +1399,6 @@ Assan Header Style
   /* line 211, components/sass/scss-classic-main/_header.scss */
   .navbar {
     padding: 0rem 1rem; }
-  /* line 214, components/sass/scss-classic-main/_header.scss */
-  .navbar-light.navbar-transparent .navbar-brand {
-    top: 5px; }
   /* line 217, components/sass/scss-classic-main/_header.scss */
   li.nav-item.nav-button {
     position: relative;
@@ -2933,18 +2930,23 @@ Page title styles
   padding-top: 14em;
   padding-bottom: 7em; }
 
-/* line 61, components/sass/scss-classic-main/_page-titles.scss */
+/* line 59, components/sass/scss-classic-main/_page-titles.scss */
+.title-space-xl {
+  padding-top: 20em;
+  padding-bottom: 10em; }
+
+/* line 65, components/sass/scss-classic-main/_page-titles.scss */
 .page-title-sm-gray {
   padding: 30px 0;
   padding-bottom: 20px;
   background-color: #f5f5f5; }
-  /* line 65, components/sass/scss-classic-main/_page-titles.scss */
+  /* line 69, components/sass/scss-classic-main/_page-titles.scss */
   .page-title-sm-gray .breadcrumb {
     margin-bottom: 0px; }
-    /* line 67, components/sass/scss-classic-main/_page-titles.scss */
+    /* line 71, components/sass/scss-classic-main/_page-titles.scss */
     .page-title-sm-gray .breadcrumb li.breadcrumb-item {
       font-size: 13px; }
-  /* line 71, components/sass/scss-classic-main/_page-titles.scss */
+  /* line 75, components/sass/scss-classic-main/_page-titles.scss */
   .page-title-sm-gray h4 {
     font-weight: 400;
     text-transform: uppercase; }

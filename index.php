@@ -1,1 +1,1 @@
-<?php header('Location: ./builds/development/index.html');?>
+<?php header('Location: ./builds/development/index.php');?>
