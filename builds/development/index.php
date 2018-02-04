@@ -256,7 +256,7 @@
                     <li>Application SUbmitted</li>
                     <li>Contact Potential Supervisors</li>
                 </ul>
-                <a href="useful_info.php" class="btn btn-primary">
+                <a href="javascript:void(0)" id="useful-info-btn" class="btn btn-primary">
                     Learn More
                 </a>
             </div>
@@ -603,4 +603,4 @@
             }
         });
     })(jQuery, window, document);
-</script> 
+</script>

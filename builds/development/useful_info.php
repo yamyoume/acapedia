@@ -10,18 +10,19 @@
 	</div>
 </div><!--page title end-->
 
-<div class="row justify-content-center mb20">
-	<div class="col-lg-10 text-center">
-		<blockquote class="quote">
-			<p class="mb0"><i>Knowledge is power. Information is liberating. Education is the premise of progress, in every society, in every family.</i></p>
-			<footer>-Kofi Annan-</footer>
-		</blockquote>
-	</div>
-</div>
 
 <div class="container mb50">
+	<div class="row justify-content-center mb20">
+		<div class="col-lg-10 text-center wow lightSpeedIn" data-wow-delay="600ms">
+			<blockquote class="quote">
+				<p class="mb0"><i>Knowledge is power. Information is liberating. Education is the premise of progress, in every society, in every family.</i></p>
+				<footer>-Kofi Annan-</footer>
+			</blockquote>
+		</div>
+	</div>
+
 	<div class="row align-items-center">
-		<div class="col-md-6 mb30">
+		<div class="col-md-6 mb30 wow slideInDown">
 			<h3 class="mb20">What is the PhD application process when applying at ACAPEDIA?</h3>
 			<p class="lead">
 				Your journey at ACAPEDIA is an exciting and supportive one. This flowchart describes the steps you might expect when you apply here:
@@ -35,7 +36,7 @@
 				<li>Contact Potential Supervisors</li>
 			</ul>
 		</div>
-		<div class="col-md-6 mb30">
+		<div class="col-md-6 mb30 wow slideInRight">
 			<img src="./images/useful-info-img-1.jpg" alt="" class="img-fluid">
 		</div>
 	</div>
@@ -47,7 +48,7 @@
 			<h3>What to expect during my PhD?</h3>
 		</div>
 		<div class="row pb60">
-			<div class="col-md-4 mb30 wow zoomInUp" data-wow-delay="100ms" data-wow-duration=".6s">
+			<div class="col-md-4 mb30 wow zoomInUp" data-wow-delay="100ms" data-wow-duration=".8s">
 			   <div class="icon-box icon-box-center">
 					<i class="icon-hover-1 bg-primary fa fa-fire icon-hover-default"></i>
 					<h4>Starting Out:</h4>
@@ -60,7 +61,7 @@
 					</ol>
 				</div>
 			</div>
-			<div class="col-md-4 mb30 wow zoomInDown" data-wow-delay="200ms" data-wow-duration=".6s">
+			<div class="col-md-4 mb30 wow zoomInDown" data-wow-delay="200ms" data-wow-duration=".8s">
 			   <div class="icon-box icon-box-center">
 					<i class="icon-hover-1 bg-primary fa fa-list-alt icon-hover-default"></i>
 					<h4>Mid Term Goals:</h4>
@@ -73,7 +74,7 @@
 					</ol>
 				</div>
 			</div><!--/col-->
-			<div class="col-md-4 mb30 wow zoomInRight" data-wow-delay="300ms" data-wow-duration=".8s">
+			<div class="col-md-4 mb30 wow zoomInRight" data-wow-delay="300ms" data-wow-duration="1s">
 			   <div class="icon-box icon-box-center">
 					<i class="icon-hover-1 bg-primary fa fa-graduation-cap icon-hover-default"></i>
 					<h4>Final Countdown:</h4>
@@ -96,24 +97,24 @@
 	</div>
 	<div class="row justify-content-center">
 		<div class="col-lg-10">
-			<p>
+			<p class="wow slideInDown">
 				Your research proposal is one of the important documents you should prepare as part of the application process to secure a doctoral offer at the university. A research proposal is a concise and coherent summary of your proposed research. You should spend some time writing your research proposal as it is essential to help us to match your research interest with an appropriate supervisor.
 			</p>
-			<h4>A typical research proposal:</h4>
-			<ul>
+			<h4 class="wow slideInDown" data-wow-delay="100ms">A typical research proposal:</h4>
+			<ul class="wow slideInDown" data-wow-delay="200ms">
 				<li>Ranges from 1,000 to 3,000 words</li>
 				<li>Is judged both on content and proposal format </li>
 			</ul>
-			<h4>The research proposal should:</h4>
-			<ul>
+			<h4 class="wow slideInDown" data-wow-delay="400ms">The research proposal should:</h4>
+			<ul class="wow slideInDown" data-wow-delay="600ms">
 				<li>Clearly define the topic you are interested in and show you understand your research area.</li>
 				<li>Include research questions.</li>
 				<li>Demonstrate you understand how to conduct research.</li>
 				<li>Look professional – it should be typed, in good English, well-structured with suitable headings.</li>
 			</ul>
-			<h4>Your research proposal should contain:</h4>
+			<h4 class="wow zoomInUp">Your research proposal should contain:</h4>
 			<div class="row">
-				<div class="col-lg-6">
+				<div class="col-lg-6 wow fadeInLeftBig">
 					<ol>
 						<li>
 							<h5>Title</h5>
@@ -132,7 +133,7 @@
 						</li>
 					</ol>
 				</div>
-				<div class="col-lg-6">
+				<div class="col-lg-6 wow rotateInUpLeft">
 					<ol start="5">
 						<li>
 							<h5>Methodology</h5>
@@ -156,33 +157,33 @@
 
 <div class="bg-faded">
 	<div class="container pt90">
-		<div class="title-heading1 mb30">
+		<div class="title-heading1 mb30 wow ZoomInUp">
 			<h3>How to write my personal statement?</h3>
 		</div>
 		<div class="row justify-content-center pb60">
 			<div class="col-lg-10">
-				<p>A personal statement can help you stand out! Writing a good personal statement is often the only way you can express your personality and say, “choose me!”. </p>
-				<p>When writing a personal statement, you should use a formal tone, stay relevant and be positive. </p>
-				<h4>A typical personal statement:</h4>
-				<ul>
+				<p class="wow slideInDown">A personal statement can help you stand out! Writing a good personal statement is often the only way you can express your personality and say, “choose me!”. </p>
+				<p class="wow slideInDown">When writing a personal statement, you should use a formal tone, stay relevant and be positive. </p>
+				<h4 class="wow slideInDown">A typical personal statement:</h4>
+				<ul class="wow slideInDown">
 					<li>Contains about 700 words</li>
 					<li>Is judged on content</li>
 				</ul>
-				<h4>Your persona statement should include:</h4>
+				<h4 class="wow slideInDown">Your persona statement should include:</h4>
 				<ol>
-					<li>
+					<li class="wow lightSpeedIn">
 						<h4>Introduction</h4>
 						<p>In the introduction, you need to mention why are you applying, your ambitions and what interests you about the subject you intend to spend about 4 years researching about.</p>
 					</li>
-					<li>
+					<li class="wow lightSpeedIn" data-wow-delay="200ms">
 						<h4>For initernational students</h4>
 						<p>it is very attractive to include the reason behind your decision of studying in the UK and becoming an international student. </p>
 					</li>
-					<li>
+					<li class="wow lightSpeedIn" data-wow-delay="300ms">
 						<h4>Summary of your expertise, skills, achievements and abilities</h4>
 						<p>Here you should talk about your academic expertise and background, the extracurricular activities and courses that you did before and what are the benefits that you gained from doing them that are relevant to your program that you intend to apply for. Try not to list your achievements: you need to evaluate them.</p>
 					</li>
-					<li>
+					<li class="wow lightSpeedIn" data-wow-delay="400ms">
 						<h4>Conclusion</h4>
 						<p>Use your conclusion to reinforce your commitment to the course you have chosen. Keeping this short and concise is better than long and vague.</p>
 					</li>
@@ -193,19 +194,19 @@
 </div>
 
 <div class="container pt90 pb90">
-	<div class="title-heading1 ">
+	<div class="title-heading1 wow rollIn">
 		<h3>What to expect after completing my PhD?</h3>
 	</div>
 	<div class="row justify-content-center">
 		<div class="col-lg-10">
-			<p>Although this is an early question to ask yourself when applying to your doctoral program, but it is very important to know what your PhD certificate after nearly four years of working hard on your research would benefit you personally and professionally.</p>
-			<p>Less than 2% of the population has a PhD and you will be one of them after completing your degree. You will be one of the highly educated, information-creating and valuable people. Lots of opportunities out there are waiting to have you! </p>
-			<h4>Academia:</h4>
-			<p>If you plan to stay in academia, then doing a postdoctoral researcher is a straightforward option. During your postdoc position, you devote 100% of your time to research and therefore are able to submit more journal articles and more grant applications. Usually, postdoc positions are temporary, e.g., contract employment, so you need to apply for funding before your postdoc finishes so you can secure the next one.</p>
-			<h4>Industry:</h4>
-			<p>PhDs have many skills that are immediately transferrable to industry, e.g., project management, problem-solving and analytical thinking. PhDs are the driving force behind the economy and PhDs have greater international mobility than other highly educated people. Usually, industry positions are permanent so you don’t need to worry about your employment time limits. </p>
-			<h4>Teaching in schools:</h4>
-			<p>Albert Einstein once said, "If you can't explain it simply, you don't understand it well enough". Being a school teacher is a great opportunity for PhDs to transfer scientific facts in a simple, accurate and clear way so the students absorb the information plainly and comprehensibly. Young students are always curious about science and knowledge and they usually ask very interesting and smart questions and this surely deepens your knowledge and understanding of science as a PhD and helps you revisit concepts through the minds of others.</p>
+			<p class="wow zoomInDown" data-wow-delay="200ms" data-wow-duration="1.1s">Although this is an early question to ask yourself when applying to your doctoral program, but it is very important to know what your PhD certificate after nearly four years of working hard on your research would benefit you personally and professionally.</p>
+			<p class="wow zoomInDown" data-wow-delay="400ms" data-wow-duration="1.1s">Less than 2% of the population has a PhD and you will be one of them after completing your degree. You will be one of the highly educated, information-creating and valuable people. Lots of opportunities out there are waiting to have you! </p>
+			<h4 class="wow zoomInDown" data-wow-delay="600ms" data-wow-duration="1.1s">Academia:</h4>
+			<p class="wow zoomInDown" data-wow-delay="800ms" data-wow-duration="1.1s">If you plan to stay in academia, then doing a postdoctoral researcher is a straightforward option. During your postdoc position, you devote 100% of your time to research and therefore are able to submit more journal articles and more grant applications. Usually, postdoc positions are temporary, e.g., contract employment, so you need to apply for funding before your postdoc finishes so you can secure the next one.</p>
+			<h4 class="wow tada" data-wow-delay="1000ms" data-wow-duration="1.1s">Industry:</h4>
+			<p class="wow tada" data-wow-delay="1200ms" data-wow-duration="1.1s">PhDs have many skills that are immediately transferrable to industry, e.g., project management, problem-solving and analytical thinking. PhDs are the driving force behind the economy and PhDs have greater international mobility than other highly educated people. Usually, industry positions are permanent so you don’t need to worry about your employment time limits. </p>
+			<h4 class="wow tada" data-wow-delay="1400ms" data-wow-duration="1.1s">Teaching in schools:</h4>
+			<p class="wow tada" data-wow-delay="1600ms" data-wow-duration="1.1s">Albert Einstein once said, "If you can't explain it simply, you don't understand it well enough". Being a school teacher is a great opportunity for PhDs to transfer scientific facts in a simple, accurate and clear way so the students absorb the information plainly and comprehensibly. Young students are always curious about science and knowledge and they usually ask very interesting and smart questions and this surely deepens your knowledge and understanding of science as a PhD and helps you revisit concepts through the minds of others.</p>
 		</div>
 	</div>
 </div>

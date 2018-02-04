@@ -74,7 +74,7 @@
                 <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-                <a class="navbar-brand" href="index.html"><img src="images/logo.png" alt="" style="width: 200px;"></a>
+                <a class="navbar-brand" href="index.php"><img src="images/logo.png" alt="" style="width: 200px;"></a>
                 <div  id="navbarNavDropdown" class="navbar-collapse collapse">
                     <ul class="navbar-nav ml-auto">
                         <li class="nav-item active">
