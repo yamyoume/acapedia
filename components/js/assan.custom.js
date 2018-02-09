@@ -9,8 +9,7 @@ $(function () {
     $(".nav-sticky-top").sticky({topSpacing: 0});
 //shrink header
     $(document).on("scroll", function () {
-        if
-                ($(document).scrollTop() > 150) {
+        if ($(document).scrollTop() > 150) {
             $(".nav-sticky").addClass("nav-stick-top");
             $(".nav-sticky").addClass("navbar-transparent");
         } else
