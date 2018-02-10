@@ -1,3 +1,7 @@
+<?php 
+$now = new DateTime();
+?>
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -90,7 +94,10 @@
                             <a href="faq.php" class="nav-link">FAQ</a>
                         </li>
                         <li class="nav-item">
-                            <a href="#" class="nav-link">Contact Us</a>
+                            <a href="register.php" class="nav-link">Apply Online</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="contact.php" class="nav-link">Contact Us</a>
                         </li>
                         
                     </ul>        
